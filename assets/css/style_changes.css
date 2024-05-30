@@ -1,0 +1,38 @@
+.tittle-a{
+    color: black;
+    font-size: 25px;
+}
+
+.items-footer{
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.footer-a{
+    color: white;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.col-lg-9 {
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 100% !important;
+}
+
+.fixed-justify{
+    justify-content: normal !important;
+}
+
+.row{
+    max-width: 70%;
+}
+
+.ds-normal{
+    display: grid;
+    justify-items: center;
+}
